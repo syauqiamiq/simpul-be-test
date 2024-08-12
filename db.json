@@ -2,84 +2,119 @@
   "inbox": [
     {
       "id": 1,
-      "subject": "109220-Naturalization",
+      "subject": "Meeting pelunasan proyek PT. ABC [LOW]",
       "senderUserName": "Cameron Phillips",
       "receiverUserName": "Agent",
-      "lastMessage": "Please check this out!",
+      "lastMessage": "Oke saya meluncur hari ini!",
       "sentDate": "2024-08-01T12:38:25.413Z",
       "isRead": false
     },
     {
       "id": 2,
-      "subject": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+      "subject": "Devops terkena CORS Error [URGENT]",
       "senderUserName": "Ellen",
       "receiverUserName": "Agent",
-      "lastMessage": "Hey, please read.",
+      "lastMessage": "Ok. baik saya follow up dulu!",
       "sentDate": "2024-08-10T12:38:25.413Z",
       "isRead": true
+    }
+  ],
+  "chat-room": [
+    {
+      "id": 1,
+      "totalParticipant": 3,
+      "roomTitle": "Meeting pelunasan proyek PT. ABC [LOW]",
+      "chats": [
+        {
+          "id": 2,
+          "chatDate": "2024-08-12T13:19:14.816Z",
+          "chatDetail": [
+            {
+              "id": 31,
+              "chatDate": "2024-08-12T13:19:14.816Z",
+              "content": "Oke saya meluncur hari ini!",
+              "recepient": "User",
+              "senderName": "Cameron Phillips",
+              "chatType": "FROM"
+            },
+            {
+              "id": 32,
+              "chatDate": "2024-08-12T13:19:14.816Z",
+              "content": "Cukup KTP saja.",
+              "recepient": "Cameron Phillips",
+              "senderName": "User",
+              "chatType": "TO"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "chatDate": "2024-08-11T13:19:14.816Z",
+          "chatDetail": [
+            {
+              "id": 12,
+              "chatDate": "2024-08-11T13:19:14.816Z",
+              "content": "Ok. baik nanti saya kesana, dokumen yang diperlukan apa nggih?",
+              "recepient": "User",
+              "senderName": "Cameron Phillips",
+              "chatType": "FROM"
+            },
+            {
+              "id": 1,
+              "chatDate": "2024-08-11T13:19:14.816Z",
+              "content": "Waalaikumsalam. Dikantor pak jam 10.00 WIB",
+              "recepient": "Cameron Phillips",
+              "senderName": "User",
+              "chatType": "TO"
+            },
+            {
+              "id": 3,
+              "chatDate": "2024-08-11T13:19:14.816Z",
+              "content": "Assalamulaikam bapak/ibu, untuk pembayaran akan dilaksanakan hari ini pukul berapa ya? dan lokasinya dimana?",
+              "recepient": "User",
+              "senderName": "Cameron Phillips",
+              "chatType": "FROM"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": 3,
-      "subject": "8405-Diana SALAZAR MUNGUIA",
-      "senderUserName": "Cameron Phillips",
-      "receiverUserName": "Agent",
-      "lastMessage": "I understand your initial concerns and thats very valid, Elizabeth. But you need blablablabla blablabla blablabla",
-      "sentDate": "2024-08-12T12:38:25.413Z",
-      "isRead": true
-    },
-    {
-      "id": 4,
-      "subject": "FastVisa Support",
-      "senderUserName": null,
-      "receiverUserName": "Agent",
-      "lastMessage": "Hey there! Welcome to your inbox.",
-      "sentDate": "2024-08-12T12:38:25.413Z",
-      "isRead": true
-    },
-    {
-      "id": 4,
-      "subject": "FastVisa Support",
-      "senderUserName": null,
-      "receiverUserName": "Agent",
-      "lastMessage": "Hey there! Welcome to your inbox.",
-      "sentDate": "2024-08-12T12:38:25.413Z",
-      "isRead": true
-    },
-    {
-      "id": 4,
-      "subject": "FastVisa Support",
-      "senderUserName": null,
-      "receiverUserName": "Agent",
-      "lastMessage": "Hey there! Welcome to your inbox.",
-      "sentDate": "2024-08-12T12:38:25.413Z",
-      "isRead": false
-    },
-    {
-      "id": 4,
-      "subject": "FastVisa Support",
-      "senderUserName": null,
-      "receiverUserName": "Agent",
-      "lastMessage": "Hey there! Welcome to your inbox.",
-      "sentDate": "2024-08-12T12:38:25.413Z",
-      "isRead": true
-    },
-    {
-      "id": 4,
-      "subject": "FastVisa Support",
-      "senderUserName": null,
-      "receiverUserName": "Agent",
-      "lastMessage": "Hey there! Welcome to your inbox.",
-      "sentDate": "2024-08-12T12:38:25.413Z",
-      "isRead": false
-    },
-    {
-      "id": 4,
-      "subject": "FastVisa Support",
-      "senderUserName": null,
-      "receiverUserName": "Agent",
-      "lastMessage": "Hey there! Welcome to your inbox.",
-      "sentDate": "2024-08-12T12:38:25.413Z",
-      "isRead": true
+      "id": 2,
+      "totalParticipant": 5,
+      "roomTitle": "Devops terkena CORS Error [URGENT]",
+      "chats": [
+        {
+          "id": 99,
+          "chatDate": "2024-08-12T13:19:14.816Z",
+          "chatDetail": [
+            {
+              "id": 12,
+              "chatDate": "2024-08-12T13:19:14.816Z",
+              "content": "Ok. saya tunggu perkembangannya ya hari ini ya!",
+              "recepient": "User",
+              "senderName": "Syauqi Amiq",
+              "chatType": "FROM"
+            },
+            {
+              "id": 1,
+              "chatDate": "2024-08-12T13:19:14.816Z",
+              "content": "Sudah aman pak, tinggal di deploy untuk script terbarunya",
+              "recepient": "Syauqi Amiq",
+              "senderName": "User",
+              "chatType": "TO"
+            },
+            {
+              "id": 3,
+              "chatDate": "2024-08-12T13:19:14.816Z",
+              "content": "Masalah yang CORS di devops kemarin gimana?",
+              "recepient": "User",
+              "senderName": "Syauqi Amiq",
+              "chatType": "FROM"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
