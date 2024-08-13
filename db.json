@@ -116,5 +116,31 @@
         }
       ]
     }
+  ],
+  "task": [
+    {
+      "id": 1,
+      "title": "Set up documentation report for several Cases : Case 145443, Case 192829 and Case 182203",
+      "description": "Homeworks needed to be checked are as follows : Client Profile Questionnaire, Passport Requirements and Images, Personal Documents.",
+      "endDate": 1723612191367,
+      "isDone": true,
+      "taskType": "Personal Errands"
+    },
+    {
+      "id": 2,
+      "title": "Cross-reference with Jeanne for Case #192813",
+      "description": "",
+      "endDate": 1723698591367,
+      "isDone": true,
+      "taskType": "Personal Errands"
+    },
+    {
+      "id": 3,
+      "title": "Check and Revise Homework from Andre Gonzales",
+      "description": "Homeworks needed to be checked are as follows : Client Profile Questionnaire, Passport Requirements and Images, Personal Documents.",
+      "endDate": 1723698591367,
+      "isDone": false,
+      "taskType": "Urgent To-Do"
+    }
   ]
 }
